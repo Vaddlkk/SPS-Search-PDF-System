@@ -4,7 +4,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://python.org)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
-[![Status](https://img.shields.io/badge/Status-Active-brightgreen)](https://github.com/your-username/sps)
+[![Status](https://img.shields.io/badge/Status-Active-brightgreen)](https://github.com/Vaddlkk/SPS-Search-PDF-System)
 
 ## ✨ Особенности
 
@@ -20,8 +20,8 @@
 
 ```bash
 # Клонируйте репозиторий
-git clone https://github.com/your-username/sps.git
-cd sps
+git clone https://github.com/Vaddlkk/SPS-Search-PDF-System.git
+cd SPS-Search-PDF-System
 
 # Установите зависимости
 pip install PyPDF2
